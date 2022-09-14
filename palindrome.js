@@ -1,3 +1,7 @@
+
+// check string is plaindrome or not
+
+
 let str="sabebas";
 
 let bag="";
