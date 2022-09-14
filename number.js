@@ -1,3 +1,8 @@
+
+
+//Check number is prime or not
+
+
 for(let i=1;i<=13;i++){
     let count=0;
 
