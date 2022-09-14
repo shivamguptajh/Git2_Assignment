@@ -1,2 +1,3 @@
 # 
-JS101_Learning_Javascript
+Git2_Assignment
+
